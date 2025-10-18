@@ -27,6 +27,11 @@
 2. **Add your secrets in repository settings:**
    - `DISCORD_TOKEN` - Your Discord user token
    - `ALLOWED_USER_IDS` - Comma-separated list of allowed user IDs
+## Render Setup
+```
+Add This Line "startServer();" In Index.js file Before The Line "module.exports = { ServerCloner };"
+Now follow the same steps you usually use to setup a Render Hosting 
+```
 
 ## 🎯 Usage
 
