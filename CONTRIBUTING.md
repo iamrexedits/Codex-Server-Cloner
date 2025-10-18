@@ -24,7 +24,7 @@ Please note that this project adheres to a [Contributor Covenant Code of Conduct
 - Provide as much detail as possible: steps to reproduce, expected vs. actual behavior, screenshots if applicable.
 
 ### Style Guidelines
-- Follow the project's coding style 
+- Oraginzation and expansion of code files of project is allowed 
 - Write clear, commented code.
 - Ensure your code is compatible with Discord's API.
 
